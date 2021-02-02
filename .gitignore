@@ -1,0 +1,8 @@
+node_modules
+/database.json
+client
+client_native
+client_nativeapp
+upload
+/tcj_customer_service.pem
+/ToDo.txt
